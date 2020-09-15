@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a back-end developer🔧. The current technology stack includes: C++, Java, Kotlin, Python, Go.  Studying at Nanchang University📚. Welcome to communicate with me!
+
+- 🔭 I’m currently working on NCUHOME <img src="https://avatars2.githubusercontent.com/u/18623963?s=60&v=4" width="40px" />
+- 🌱 I’m currently learning Nanchang University<img src="http://www.ncu.edu.cn/img/nculogo.jpg" width="40px">
+- 💬 Ask me about via sakura-by@qq.com this email📫
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sakura-by&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakura-by)](https://github.com/anuraghazra/github-readme-stats)
