@@ -23,4 +23,6 @@ I am a back-end developer🔧. The current technology stack includes: C++, Java,
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sakura-by&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakura-by)](https://github.com/anuraghazra/github-readme-stats)
+<figure><embed src="https://wakatime.com/share/@17354f64-7f4e-4541-9a7e-68815e92fa3a/030bc130-b57d-4401-951a-c0b3bb0bfb70.svg" width="500px"></embed></figure>
+
+<figure><embed src="https://wakatime.com/share/@17354f64-7f4e-4541-9a7e-68815e92fa3a/dad59f62-2429-42ac-8dc5-e498c574987e.svg" width="500px"></embed></figure>
