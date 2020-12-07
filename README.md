@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a back-end developer🔧. The current technology stack includes: C++, Java, Kotlin, Python, Go.  Studying at Nanchang University📚. Welcome to communicate with me!
+I am a back-end developer🔧. The current technology stack includes: C++, Java, Kotlin, Python, Go. Now is learning Rust. Studying at Nanchang University📚. Welcome to communicate with me!
 
 - 🔭 I’m currently working on NCUHOME <img src="https://avatars2.githubusercontent.com/u/18623963?s=60&v=4" width="40px" />
 - 🌱 I’m currently learning Nanchang University<img src="http://www.ncu.edu.cn/img/nculogo.jpg" width="40px">
