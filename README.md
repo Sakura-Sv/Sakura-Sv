@@ -19,7 +19,7 @@ I am a back-end developer🔧. The current technology stack includes: C++, Java,
 
 - 🔭 I’m currently working on NCUHOME <img src="https://avatars2.githubusercontent.com/u/18623963?s=60&v=4" width="40px" />
 - 🌱 I’m currently learning Nanchang University<img src="http://www.ncu.edu.cn/img/nculogo.jpg" width="40px">
-- 💬 Ask me about via sakura-by@qq.com this email📫
+- 💬 Ask me about via sakura-sv@qq.com this email📫
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sakura-by&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
