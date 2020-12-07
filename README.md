@@ -21,7 +21,7 @@ I am a back-end developer🔧. The current technology stack includes: C++, Java,
 - 🌱 I’m currently learning Nanchang University<img src="http://www.ncu.edu.cn/img/nculogo.jpg" width="40px">
 - 💬 Ask me about via sakura-sv@qq.com this email📫
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sakura-by&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sakura-Sv&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <figure><embed src="https://wakatime.com/share/@17354f64-7f4e-4541-9a7e-68815e92fa3a/030bc130-b57d-4401-951a-c0b3bb0bfb70.svg" width="500px"></embed></figure>
 
