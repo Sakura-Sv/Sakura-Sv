@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am a back-end developer🔧. The current technology stack includes: C++, Java, Kotlin, Python, Go. Now is learning Rust. Studying at Nanchang University📚. Welcome to communicate with me!
 
-- 💼 I worked with the ByteDance search department from March 2022 to March 2023 <img src="https://avatars.githubusercontent.com/u/4158466?s=200&v=4" width="40px />
+- 💼 I worked with the ByteDance search department from March 2022 to March 2023 <img src="https://avatars.githubusercontent.com/u/4158466?s=200&v=4" width="40px" />
 - 🔭 I’m currently working on NCUHOME <img src="https://avatars2.githubusercontent.com/u/18623963?s=60&v=4" width="40px" />
 - 🌱 I’m currently learning Nanchang University<img src="http://www.ncu.edu.cn/img/nculogo.jpg" width="40px">
 - 💬 Ask me about via sakura-sv@qq.com this email📫
